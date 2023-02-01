@@ -1,14 +1,15 @@
 #include <stdio.h>
 
-typedef struct __node {
-    Node* next;
+typedef struct ___node {
+    struct ___node* next;
     int value;
 } Node;
 
 public static void main(String[] args) {
     System.out.println("ERROR");
+    return;
 }
 
 int main() {
-    return 0;
+    return 2;
 }
