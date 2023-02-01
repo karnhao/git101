@@ -11,5 +11,5 @@ public static void main(String[] args) {
 }
 
 int main() {
-    return 2;
+    return 1;
 }
