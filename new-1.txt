@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+typedef struct __node {
+    Node* next;
+    int value;
+} Node;
+
+public static void main(String[] args) {
+    System.out.println("ERROR");
+}
+
+int main() {
+    return 0;
+}
